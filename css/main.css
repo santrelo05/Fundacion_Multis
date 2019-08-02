@@ -62,3 +62,20 @@ h4{
     align-items: center;
     padding-top: 3rem;
 }  
+
+/*navegacion */
+
+.navegacion a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+
+.navegacion a:hover{
+    color: #718100;
+}
+
+.navegacion a:last-of-type{
+    margin: 0;
+}
