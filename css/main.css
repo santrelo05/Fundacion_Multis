@@ -32,6 +32,11 @@ h3{
 h4{
     font-size: 2.6rem;
 }
+
+
+.titulo{
+    color: #125C69;
+}
 /*Header*/
 
 .site-header.inicio{
@@ -73,9 +78,21 @@ h4{
 }
 
 .navegacion a:hover{
-    color: #718100;
+    color: #DA6A00;
 }
 
 .navegacion a:last-of-type{
     margin: 0;
+}
+
+/*utilidades*/
+.seccion{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.columna{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
 }
