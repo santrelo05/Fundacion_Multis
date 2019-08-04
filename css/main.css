@@ -93,6 +93,13 @@ h4{
 
 .columna{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     text-align: center;
+}
+
+.centrar-texto{
+    text-align: center;
+}
+.justify-texto{
+    text-align: left;
 }
