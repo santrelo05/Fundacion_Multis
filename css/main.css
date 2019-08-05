@@ -95,7 +95,6 @@ h4{
     display: flex;
     justify-content: space-around;
     text-align: center;
-   
 }
 
 .centrar-texto{
@@ -137,12 +136,12 @@ h4{
     display: inline-block;
     text-align: center;
 }
-.boton-amarillo{
-    background-color: #E08709;
+.boton-azul{
+    background-color: #125C69;
     display: table;
     margin: 0 auto;
 }
 
-.boton-amarillo:hover{
-    background-color: #125C69;
+.boton-azul:hover{
+    background-color: #E08709;
 }
