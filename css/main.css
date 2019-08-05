@@ -106,3 +106,42 @@ h4{
 .lista{
    list-style-type: none;
 }
+
+/*publicidad*/
+.imagen-publicidad{
+    background-image: url(../img/black-and-white-boardroom-ceiling-260689.jpg);
+    background-position: center center;
+    height: 40rem;
+    display: flex;
+    align-items: center;
+}
+
+.contenido-publicidad{
+    flex: 1;
+    color: #000000;
+}
+
+.contenido-publicidad p{
+    font-size: 1.8rem;
+}
+
+/*botones*/
+.boton{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.8rem;
+    padding: 1rem 3rem;
+    margin-top: 3rem;
+    display: inline-block;
+    text-align: center;
+}
+.boton-amarillo{
+    background-color: #E08709;
+    display: table;
+    margin: 0 auto;
+}
+
+.boton-amarillo:hover{
+    background-color: #125C69;
+}
